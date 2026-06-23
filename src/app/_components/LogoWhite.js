@@ -1,0 +1,53 @@
+import Link from "next/link";
+
+export default function LogoWhite({ className } = "") {
+  return (
+    <Link href="/">
+      <svg
+        id="Layer_1"
+        data-name="Layer 1"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 513 249.51"
+        className={className}
+      >
+        <defs>
+          <style>{`
+            .cls-1 {
+              stroke-linecap: round;
+            }
+            .cls-1, .cls-2 {
+              stroke: #000;
+              stroke-linejoin: round;
+            }
+          `}</style>
+        </defs>
+        <polygon
+          className="cls-2 fill-background stroke-background"
+          points=".5 206.28 .5 66.25 38.92 66.25 74.71 127.16 111.46 66.25 149.6 66.25 149.6 206.4 114.2 206.4 114.2 121.85 76.61 183.43 73.52 183.43 35.49 122.3 35.49 206.4 .5 206.28"
+        />
+        <g>
+          <path
+            className="cls-2 fill-background stroke-background"
+            d="M195.06,202.11v-123.81s-84.96,76.83,0,123.81Z"
+          />
+          <path
+            className="cls-1 fill-background stroke-background"
+            d="M338.58,78.3s84.96,76.83,0,123.81v-123.81"
+          />
+          <polygon
+            className="cls-2 fill-background stroke-background"
+            points="306.74 109.61 226.82 109.61 226.82 45.02 266.86 .5 306.74 44.83 306.74 109.61"
+          />
+          <path
+            className="cls-1 fill-background stroke-background"
+            d="M226.71,203.08v-61.74h80.04v61.74s-22.66-5.53-34.6-24.98c0,0,2.05,46.43,47.31,70.92h-104.8s42.28-20.69,46.93-70.87c0,0-11.17,19.59-34.88,24.94Z"
+          />
+        </g>
+        <path
+          className="cls-1 fill-background stroke-background"
+          d="M478.01,157.02s33.99-9.95,29.84-51.9c-4.14-41.96-51.27-39.02-51.27-39.02h-72.74v140.12h36.59l-.03-43.34h21.67l29.96,43.34h40.46l-34.49-49.2ZM472.82,117.05c0,9.85-7.99,17.83-17.83,17.83h-34.73c-.37,0-.67-.29-.67-.66v-35.65c0-.37.3-.67.67-.67h37.29c8.43,0,15.26,6.83,15.26,15.26v3.89Z"
+        />
+      </svg>
+    </Link>
+  );
+}
