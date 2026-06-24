@@ -1,7 +1,7 @@
 export const WEB_APP_PROJECTS = [
   {
     id: 1,
-    image: "/img/web-app/hang-man.png",
+    image: "/img/web-app/hang-man.PNG",
     title: "Hang Man",
     // desc: "Description of your web app.",
     tags: ["python", "JavaScript", "HTML", "CSS", "DOM Manipulation", "Game"],
@@ -12,7 +12,7 @@ export const WEB_APP_PROJECTS = [
   },
   {
     id: 2,
-    image: "/img/web-app/dice-dice.png",
+    image: "/img/web-app/dice-dice.PNG",
     title: "Dice & Dice",
     // desc: "Short description of what this project does.",
     tags: [
@@ -30,7 +30,7 @@ export const WEB_APP_PROJECTS = [
   },
   {
     id: 3,
-    image: "/img/web-app/simon-game.png",
+    image: "/img/web-app/simon-game.PNG",
     title: "Simon Game",
     // desc: "Short description of what this project does.",
     tags: ["Python", "JavaScript", "HTML", "CSS", "DOM Manipulation", "Game"],
@@ -41,7 +41,7 @@ export const WEB_APP_PROJECTS = [
   },
   {
     id: 4,
-    image: "/img/web-app/vending-machine.png",
+    image: "/img/web-app/vending-machine.PNG",
     title: "Vending Machine Simulator",
     // desc: "Short description of what this project does.",
     tags: ["JavaScript", "HTML", "CSS", "DOM Manipulation", "Logic"],
@@ -52,8 +52,8 @@ export const WEB_APP_PROJECTS = [
   },
   {
     id: 5,
-    image: "/img/web-app/todo-list.png",
-    title: "To-do List",
+    image: "/img/web-app/todo-list.PNG",
+    title: "TPNGo List",
     // desc: "Short description of what this project does.",
     tags: ["React", "JavaScript", "useState", "CRUD", "CSS", "CRA"],
     live: "https://yoursite.com",
@@ -63,7 +63,7 @@ export const WEB_APP_PROJECTS = [
   },
   {
     id: 6,
-    image: "/img/web-app/keep-notes.png",
+    image: "/img/web-app/keep-notes.PNG",
     title: "Keep Notes",
     // desc: "Short description of what this project does.",
     tags: ["React", "JavaScript", "Material UI", "CRA"],
@@ -74,7 +74,7 @@ export const WEB_APP_PROJECTS = [
   },
   {
     id: 7,
-    image: "/img/web-app/far-away.png",
+    image: "/img/web-app/far-away.PNG",
     title: "Far Away",
     // desc: "Description of your web app.",
     tags: ["Python", "JavaScript", "HTML", "CSS", "DOM Manipulation", "Game"],
@@ -85,7 +85,7 @@ export const WEB_APP_PROJECTS = [
   },
   {
     id: 8,
-    image: "/img/web-app/react-pizza.png",
+    image: "/img/web-app/react-pizza.PNG",
     title: "React Pizza",
     // desc: "Short description of what this project does.",
     tags: [
@@ -103,7 +103,7 @@ export const WEB_APP_PROJECTS = [
   },
   {
     id: 9,
-    image: "/img/web-app/react-quiz.png",
+    image: "/img/web-app/react-quiz.PNG",
     title: "React Quiz",
     // desc: "Short description of what this project does.",
     tags: ["React", "JavaScript", "HTML", "CSS", "DOM Manipulation", "Game"],
@@ -114,7 +114,7 @@ export const WEB_APP_PROJECTS = [
   },
   {
     id: 10,
-    image: "/img/web-app/use-popcorn.png",
+    image: "/img/web-app/use-popcorn.PNG",
     title: "Use Popcorn",
     // desc: "Short description of what this project does.",
     tags: ["React", "JavaScript", "HTML", "CSS", "DOM Manipulation", "Logic"],
@@ -125,7 +125,7 @@ export const WEB_APP_PROJECTS = [
   },
   {
     id: 11,
-    image: "/img/web-app/worldwise.png",
+    image: "/img/web-app/worldwise.PNG",
     title: "Worldwise",
     // desc: "Short description of what this project does.",
     tags: ["React", "JavaScript", "useState", "CRUD", "CSS", "CRA"],

@@ -1,7 +1,7 @@
 export const WEB_DESIGN_PROJECTS = [
   {
     id: 1,
-    image: "/img/web-1.png",
+    image: "/img/web-design/web-1.png",
     title: "Active Box",
     // desc: "Short description of what this project does.",
     tags: ["PSD", "HTML", "CSS", "JS"],
@@ -12,7 +12,7 @@ export const WEB_DESIGN_PROJECTS = [
   },
   {
     id: 2,
-    image: "/img/web-2.png",
+    image: "/img/web-design/web-2.png",
     title: "Beatls",
     // desc: "Short description of what this project does.",
     tags: ["PSD", "HTML", "CSS", "JS"],
@@ -23,7 +23,7 @@ export const WEB_DESIGN_PROJECTS = [
   },
   {
     id: 3,
-    image: "/img/web-3.png",
+    image: "/img/web-design/web-3.png",
     title: "Mercury Land",
     // desc: "Short description of what this project does.",
     tags: ["PSD", "HTML", "CSS", "JS"],
@@ -34,7 +34,7 @@ export const WEB_DESIGN_PROJECTS = [
   },
   {
     id: 4,
-    image: "/img/web-4.png",
+    image: "/img/web-design/web-4.png",
     title: "Mogan Portfolio",
     // desc: "Short description of what this project does.",
     tags: ["PSD", "HTML", "CSS", "JS"],
@@ -45,7 +45,7 @@ export const WEB_DESIGN_PROJECTS = [
   },
   {
     id: 5,
-    image: "/img/web-5.png",
+    image: "/img/web-design/web-5.png",
     title: "MYFOLIO",
     // desc: "Short description of what this project does.",
     tags: ["PSD", "HTML", "CSS", "JS"],
@@ -56,7 +56,7 @@ export const WEB_DESIGN_PROJECTS = [
   },
   {
     id: 6,
-    image: "/img/web-6.png",
+    image: "/img/web-design/web-6.png",
     title: "Take",
     // desc: "Short description of what this project does.",
     tags: ["PSD", "HTML", "CSS", "JS"],
@@ -67,7 +67,7 @@ export const WEB_DESIGN_PROJECTS = [
   },
   {
     id: 7,
-    image: "/img/web-7.png",
+    image: "/img/web-design/web-7.PNG",
     title: "Strict",
     // desc: "Short description of what this project does.",
     tags: ["PSD", "HTML", "CSS", "JS"],
