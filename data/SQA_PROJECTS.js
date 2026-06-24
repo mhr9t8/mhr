@@ -2,7 +2,7 @@ export const SQA_PROJECTS = [
   {
     id: 1,
     emoji: "📶",
-    title: "SQA Project",
+    title: "Manual Testing - Othoba.com",
     // desc: "Description of your testing/QA project.",
     tags: [
       "Manual Testing",
@@ -13,14 +13,14 @@ export const SQA_PROJECTS = [
       "XMind",
       "E-Commerce",
     ],
-    github: "#",
+    github: "https://github.com/MHRxSQA/TestCase_ManualTesting_Othoba.com.git",
     gradient: "from-blue-900 to-purple-900",
     category: "sqa",
   },
   {
     id: 2,
     emoji: "📶",
-    title: "SQA Project",
+    title: "Booking_Rest-API_Postman-Newman",
     // desc: "Description of your testing/QA project.",
     tags: [
       "API Testing",
@@ -30,14 +30,14 @@ export const SQA_PROJECTS = [
       "Performance Testing",
       "HTML Report",
     ],
-    github: "#",
+    github: "https://github.com/MHRxSQA/Booking_Rest-API_Postman-Newman.git",
     gradient: "from-blue-900 to-purple-900",
     category: "sqa",
   },
   {
     id: 3,
     emoji: "📶",
-    title: "SQA Project",
+    title: "Demoblaze.com-Test-Automation-Playwright",
     // desc: "Description of your testing/QA project.",
     tags: [
       "Automation Testing",
@@ -46,7 +46,8 @@ export const SQA_PROJECTS = [
       "E2E Testing",
       "Page Object Model",
     ],
-    github: "#",
+    github:
+      "https://github.com/MHRxSQA/Demoblaze.com-Test-Automation-Playwright.git",
     gradient: "from-blue-900 to-purple-900",
     category: "sqa",
   },
